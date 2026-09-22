@@ -63,7 +63,12 @@ Sentinel-2 | GemPy | PyVista | Leaflet | ...
 
 ## Team
 
-[team members]
+1. Atharv Vispute
+2. Grishma Gujarathi
+3. Piyush Savale
+4. Agamya Bapte
+5. Harshal Bhadane
+6. Jagdish Sonawane
 
 ## Disclaimer
 
