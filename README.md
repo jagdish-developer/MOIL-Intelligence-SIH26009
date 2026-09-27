@@ -1,10 +1,8 @@
-# MOIL Intelligence — SIH26009
+# MOIL Intelligence 
 
 AI/ML and Space Technology based decision-support system for manganese
 exploration, production shortfall prediction, equipment intelligence,
 and exploration planning for MOIL.
-
-## Problem Statement
 
 **SIH26009 — Using AI/ML and Space Technology to Identify Manganese Reserves and Overcome Production Shortfalls**
 
